@@ -1,1 +1,1 @@
-# armazenando_dados_js
+# alura-armazenando-na-web
